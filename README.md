@@ -8,7 +8,7 @@ e o [CheerIO](https://github.com/cheeriojs/cheerio) para separar e tratar os dad
 
 ## Usabilidade
 ```js
-const getProduct = require('./getProduct');
+const getProduct = require('./get-product');
 
 getProduct('URI-ALVO');
 
