@@ -38,7 +38,7 @@ getProduct('https://www.americanas.com.br/produto/133718358');
 > /lib/handle.js      -> Usado para tratamento de alguns dados
 
 ### Considerações
-Toda recuperação de dados foi feita utilizando expressão regular nos seletores no objeto CheerIO para que a recupere traga devidamente os dados necessários e de forma que execute para qualquer URI de produto do site 'americanas.com'
+Toda recuperação de dados foi feita utilizando expressão regular nos seletores no objeto CheerIO para que traga devidamente os dados necessários e de forma que execute para qualquer URI de produto do site 'americanas.com'
 > ie.: https://www.americanas.com.br/produto/133718358
   
 Todo o código segue comentado de cada ação executada.
