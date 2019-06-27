@@ -7,7 +7,7 @@ Utilizado o [Request](https://github.com/request/request) para fazer as requisi�
 e o [CheerIO](https://github.com/cheeriojs/cheerio) para separar e tratar os dados
 
 ## Instalação
-`git clone https://github.com/harv3n/get-product.git`
+`git clone https://github.com/harv3n/get-product.git`  
 `npm install`
 
 ## Usabilidade
