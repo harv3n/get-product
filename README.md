@@ -35,7 +35,7 @@ getProduct('https://www.americanas.com.br/produto/133718358');
 ### Estrutura de arquivos
 > /                   -> Contém um index que exporta o modulo getProduct.js  
 > /lib/getProduct.js  -> Principal chamada do modulo, onde efetua-se o  request e a separação dos dados com o CheerIO  
-> /lib/handle.js      -> Handle para tratamento dos dados para melhor organização 
+> /lib/handle.js      -> Usado para tratamento de alguns dados
 
 ### Considerações
 Toda recuperação de dados foi feita utilizando expressão regular nos seletores no objeto CheerIO para que a recupere traga devidamente os dados necessários e de forma que execute para qualquer URI de produto do site 'americanas.com'
